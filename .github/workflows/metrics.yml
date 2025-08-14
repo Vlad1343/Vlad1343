@@ -27,9 +27,9 @@ jobs:
               transform: scale(0.5); 
               transform-origin: top center; 
             }
-            /* Removes the huge gap created by the 0.5 zoom */
+            /* Closes the large gap under the stats */
             .container {
-              margin-bottom: -450px;
+              margin-bottom: -620px;
             }
             /* Emerald Branding */
             .header { color: #059669; }
