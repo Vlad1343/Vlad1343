@@ -136,12 +136,25 @@
 <!-- 🏆 Hackathon Achievements -->
 <h3 align="center">🏆 Hackathon Achievements</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/🥇_1st_Place-Accelerate_Me_x_Housr_--_ElevenLabs_Challenge-FFD700?style=for-the-badge&labelColor=000000" height="34"/>
+  <!-- 1st Place: Gesture Translator -->
+  <a href="https://github.com/Vlad1343/Gesture-Translator">
+    <img src="https://img.shields.io/badge/🥇_1st_Place-Accelerate_Me_x_Housr_--_ElevenLabs_Challenge-FFD700?style=for-the-badge&labelColor=000000&logo=github" height="34"/>
+  </a>
   <br><br>
-  <img src="https://img.shields.io/badge/🥈_2nd_Place-GreatUniHack_--_Housr_Challenge-C0C0C0?style=for-the-badge&labelColor=000000" height="34"/>
+
+  <!-- 2nd Place: SAVR -->
+  <a href="https://github.com/Vlad1343/SAVR">
+    <img src="https://img.shields.io/badge/🥈_2nd_Place-GreatUniHack_--_Housr_Challenge-C0C0C0?style=for-the-badge&labelColor=000000&logo=github" height="34"/>
+  </a>
   <br><br>
-  <img src="https://img.shields.io/badge/🥉_3rd_Place-GreatUniHack_--_Booking.com_Challenge-CD7F32?style=for-the-badge&labelColor=000000" height="34" />
+
+  <!-- 3rd Place: Rest Quest -->
+  <a href="https://github.com/Vlad1343/Rest-Quest">
+    <img src="https://img.shields.io/badge/🥉_3rd_Place-GreatUniHack_--_Booking.com_Challenge-CD7F32?style=for-the-badge&labelColor=000000&logo=github" height="34" />
+  </a>
   <br><br><br>
+
+  <!-- Honourable Mention -->
   <img src="https://img.shields.io/badge/🏅_Honourable_Mention-Back--to--Uni_Hackathon-00BFFF?style=for-the-badge&labelColor=000000" height="34" />
 </div>
 
