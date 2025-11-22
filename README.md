@@ -1,6 +1,6 @@
-<!-- HEADER: Animated Gradient Wave (Professional Blue) -->
+<!-- HEADER: Professional Dark Green Gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,119,182,3,4,94&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=006400,228B22&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <!-- INTRO: Typing Animation -->
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vladshutkevych@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-202020?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -32,13 +32,12 @@
 <!-- TECH STACK -->
 <h3 align="center">🛠 Tech Stack</h3>
 <div align="center">
-  <!-- 21 Icons arranged in 3 rows of 7 -->
   <img src="https://skillicons.dev/icons?i=py,swift,ts,java,js,html,css,react,bootstrap,tailwind,nodejs,django,fastapi,postgres,supabase,tensorflow,pytorch,opencv,sklearn,docker,git&perline=7&theme=dark" />
 </div>
 
 <br>
 
-<!-- 🏆 HACKATHON ACHIEVEMENTS -->
+<!-- 🏆 Hackathon Achievements -->
 <h3 align="center">🏆 Hackathon Achievements</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/🥇_1st_Place-Accelerate_Me_x_Housr_--_ElevenLabs_Challenge-FFD700?style=for-the-badge&labelColor=000000" height="34"/>
@@ -64,7 +63,7 @@
 
 <br>
 
-<!-- FOOTER: Matching Blue Gradient Wave -->
+<!-- FOOTER: Professional Dark Green Gradient (Matching Header) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,119,182,3,4,94&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=006400,228B22&height=100&section=footer" width="100%" />
 </div>
