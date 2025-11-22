@@ -29,10 +29,14 @@
 
 <br>
 
-<!-- TECH STACK -->
+<!-- TECH STACK (Exact match to Resume + Bootstrap) -->
 <h3 align="center">🛠 Tech Stack</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,html,css,react,nextjs,nodejs,django,fastapi,tailwind,mui,redux,docker,aws&perline=8&theme=dark" />
+  <!-- Languages & Frontend -->
+  <img src="https://skillicons.dev/icons?i=py,swift,ts,java,js,html,css,react,bootstrap,tailwind,swiftui&perline=11&theme=dark" />
+  <br>
+  <!-- Backend, AI, Data & Tools -->
+  <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,postgres,supabase,tensorflow,pytorch,opencv,sklearn,pandas,numpy,docker,git,xcode&perline=11&theme=dark" />
 </div>
 
 <br>
