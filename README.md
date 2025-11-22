@@ -3,10 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
-<!-- INTRO: Typing Animation -->
+<!-- INTRO: Typing Animation (Adaptive: White in Dark Mode, Dark in Light Mode) -->
 <div align="center">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=435&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor" alt="Typing SVG" />
+  <picture>
+    <!-- Dark Mode Image (Text Color: F7F7F7 = White) -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
+    <!-- Light Mode Image (Text Color: 3F3F3F = Dark Gray) -->
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=435&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
+    <!-- Fallback Image -->
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=435&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
+  </picture>
 </div>
 
 <!-- SOCIAL LINKS -->
