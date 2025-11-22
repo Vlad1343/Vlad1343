@@ -1,6 +1,6 @@
-<!-- HEADER: Professional Dark Green Gradient -->
+<!-- HEADER: Emerald Green (Single Hex = Stable) + White Text + Montserrat Font -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=006400,228B22&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <!-- INTRO: Typing Animation -->
@@ -63,7 +63,7 @@
 
 <br>
 
-<!-- FOOTER: Professional Dark Green Gradient (Matching Header) -->
+<!-- FOOTER: Matching Emerald Green -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=006400,228B22&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=100&section=footer" width="100%" />
 </div>
