@@ -6,9 +6,9 @@
 <!-- INTRO: Typing Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Software+Engineer;4x+Hackathon+Winner;Open+Source+Contributor">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;4x+Hackathon+Winner;Open+Source+Contributor">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;4x+Hackathon+Winner;Open+Source+Contributor">
   </picture>
 </div>
 
@@ -33,7 +33,7 @@
       I am a <b>CS Student at the University of Manchester</b> and a Software Engineer specializing in <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Computer Vision</b>.
     </p>
     <p>
-      🏆 <b>Award-Winning Builder:</b> Secured <b>3x Hackathon victories</b> by turning innovative ideas into functional, high-quality software under tight deadlines<br>
+      🏆 <b>Award-Winning Builder:</b> Secured <b>4x Hackathon victories</b> by turning innovative ideas into functional, high-quality software under tight deadlines<br>
       💻 <b>Technical Expertise:</b> Experienced in building scalable, AI-native applications that integrate <b>LLMs</b> and <b>Computer Vision</b> into modern web architectures<br>
       🚀 <b>Open Source & Impact:</b> Committed to writing clean, maintainable code, contributing to open-source projects, and solving real-world engineering challenges.<br>
       ⚡ <b>Fun Fact:</b> I designed an autonomous robot that solves a Rubik's Cube in under 60 seconds! 🧩
