@@ -1,6 +1,6 @@
-<!-- HEADER: Animated Gradient Wave (Changed to Professional Blue) -->
+<!-- HEADER: Animated Gradient Wave (Professional Blue) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,114,255,0,198,255&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,119,182,3,4,94&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <!-- INTRO: Typing Animation -->
@@ -37,23 +37,15 @@
 
 <br>
 
-<!-- 🏆 HACKATHON ACHIEVEMENTS (Fixed: Blue Color Scheme + New Lines) -->
+<!-- 🏆 HACKATHON ACHIEVEMENTS -->
 <h3 align="center">🏆 Hackathon Achievements</h3>
 <div align="center">
-  <!-- 1st Place -->
   <img src="https://img.shields.io/badge/🥇_1st_Place-Accelerate_Me_x_Housr_--_ElevenLabs_Challenge-FFD700?style=for-the-badge&labelColor=000000" height="34"/>
-  <br><br> <!-- Forces new line + space -->
-
-  <!-- 2nd Place -->
+  <br><br>
   <img src="https://img.shields.io/badge/🥈_2nd_Place-GreatUniHack_--_Housr_Challenge-C0C0C0?style=for-the-badge&labelColor=000000" height="34"/>
-  <br><br> <!-- Forces new line + space -->
-
-  <!-- 3rd Place -->
+  <br><br>
   <img src="https://img.shields.io/badge/🥉_3rd_Place-GreatUniHack_--_Booking.com_Challenge-CD7F32?style=for-the-badge&labelColor=000000" height="34" />
-  
-  <br><br><br> <!-- Bigger Gap before honourable mention -->
-
-  <!-- Honourable Mention -->
+  <br><br><br>
   <img src="https://img.shields.io/badge/🏅_Honourable_Mention-Back--to--Uni_Hackathon-00BFFF?style=for-the-badge&labelColor=000000" height="34" />
 </div>
 
@@ -63,9 +55,9 @@
 <h3 align="center">🐍 Contribution Activity</h3>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vlad1343/Vlad1343/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vlad1343/Vlad1343/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Vlad1343/Vlad1343/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vlad1343/Vlad1343/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vlad1343/Vlad1343/main/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Vlad1343/Vlad1343/main/dist/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -73,5 +65,5 @@
 
 <!-- FOOTER: Matching Blue Gradient Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,114,255,0,198,255&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,119,182,3,4,94&height=100&section=footer" width="100%" />
 </div>
