@@ -47,7 +47,7 @@
 <hr>
 <div align="center">
   <h3 align="center">📊 Career Analytics</h3>
-  <img src="https://raw.githubusercontent.com/Vlad1343/Vlad1343/main/github-metrics.svg" alt="Detailed Metrics" width="700">
+  <img src="https://raw.githubusercontent.com/Vlad1343/Vlad1343/main/github-metrics.svg?v=2" alt="Detailed Metrics" width="600">
 </div>
 
 <br>

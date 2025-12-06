@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Runs daily at midnight
-  workflow_dispatch: # Allows manual run
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -22,11 +22,14 @@ jobs:
           plugin_lines: yes
           config_order: base.header, isocalendar, base.activity, base.community
           style: |
-            /* Significant Zoom Out */
-            .container { 
-              transform: scale(0.7); 
+            /* The 0.5 Ultra-Zoom */
+            svg { 
+              transform: scale(0.5); 
               transform-origin: top center; 
-              margin-bottom: -180px; 
+            }
+            /* Removes the huge gap created by the 0.5 zoom */
+            .container {
+              margin-bottom: -450px;
             }
             /* Emerald Branding */
             .header { color: #059669; }
