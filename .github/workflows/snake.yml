@@ -4,7 +4,7 @@ on:
   # Run every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-  # Manual trigger
+  # Allow manual trigger
   workflow_dispatch:
 
 jobs:
@@ -19,7 +19,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2️⃣ Generate GitHub contribution snake SVGs
+      # 2️⃣ Ensure dist folder exists
+      - name: Ensure dist folder exists
+        run: mkdir -p dist
+
+      # 3️⃣ Generate GitHub contribution snake SVGs
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
@@ -30,18 +34,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3️⃣ Configure git for committing
+      # 4️⃣ Configure git for committing
       - name: Configure git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      # 4️⃣ Commit and push to output branch
-      - name: Commit and push to output branch
+      # 5️⃣ Commit and push to main branch
+      - name: Commit and push to main branch
         run: |
-          git checkout -B output
+          git checkout main
           git add dist/github-contribution-grid-snake*.svg
           git commit -m "Update snake animation [ci skip]" || echo "No changes to commit"
-          git push -f origin output
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
