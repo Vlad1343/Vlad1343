@@ -4,7 +4,7 @@ on:
   # Run every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-  # Allow manual trigger
+  # Manual trigger
   workflow_dispatch:
 
 jobs:
@@ -15,7 +15,7 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # 1️⃣ Checkout the repository
+      # 1️⃣ Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
@@ -24,12 +24,13 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          output: dist/github-contribution-grid-snake.svg
-          dark_output: dist/github-contribution-grid-snake-dark.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3️⃣ Configure git for pushing
+      # 3️⃣ Configure git for committing
       - name: Configure git
         run: |
           git config user.name "github-actions[bot]"
