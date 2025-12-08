@@ -1,4 +1,4 @@
-## Hi there 👋
+![GitHub Snake](https://raw.githubusercontent.com/Vlad1343/your-repo/main/dist/github-contribution-grid-snake.svg)
 
 <!--
 **Vlad1343/Vlad1343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
