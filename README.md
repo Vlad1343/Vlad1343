@@ -1,27 +1,12 @@
-<!-- HEADER: Animated Gradient Wave (No Delay, Continuous Animation) -->
+<!-- HEADER: Emerald Green + White Text + Montserrat Font -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving
-&color=gradient
-&customColorList=255,94,58,255,149,0
-&height=280
-&section=header
-&text=Vlad%20Shutkevych
-&fontSize=70
-&fontAlignY=35
-&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University
-&descAlignY=60
-&descAlign=50
-&animation=gradientShift" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
-<!-- INTRO: Typing Animation (Adaptive: White in Dark Mode) -->
+<!-- INTRO: Continuous Typing Animation -->
 <div align="center">
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=435&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=435&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=0&color=F7F7F7&center=true&vCenter=true&width=500&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <!-- SOCIAL LINKS -->
@@ -39,26 +24,22 @@
 <!-- ABOUT ME SECTION -->
 <div align="center">
   <h3>🚀 About Me</h3>
-  <p>I am a passionate developer focusing on building scalable web applications. <br> I love clean code, modern UI, and automating workflows.</p>
+  <p>I am a passionate developer focusing on building scalable web applications.<br>I love clean code, modern UI, and automating workflows.</p>
 </div>
 
 <br>
-<!-- TECH STACK (Final Professional Version) -->
+
+<!-- TECH STACK -->
 <h3 align="center">🛠 Tech Stack</h3>
 
 <!-- Frontend & Mobile -->
 <div align="center">
   <h4 style="margin-bottom: 10px;">📱 Frontend & Mobile</h4>
-
-  <!-- Row 1 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br>
-
-  <!-- Row 2 -->
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
@@ -70,7 +51,6 @@
 <!-- Backend -->
 <div align="center">
   <h4 style="margin-bottom: 10px;">⚙️ Backend & API</h4>
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -84,7 +64,6 @@
 <!-- AI & Data -->
 <div align="center">
   <h4 style="margin-bottom: 10px;">🤖 AI & Data Science</h4>
-
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -98,7 +77,6 @@
 <!-- Database & Tools -->
 <div align="center">
   <h4 style="margin-bottom: 10px;">💾 Database & Tools</h4>
-
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
