@@ -1,6 +1,17 @@
-<!-- HEADER: Emerald Green + White Text + Montserrat Font -->
+<!-- HEADER: Animated Gradient Wave (No Delay, Continuous Animation) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving
+&color=gradient
+&customColorList=255,94,58,255,149,0
+&height=280
+&section=header
+&text=Vlad%20Shutkevych
+&fontSize=70
+&fontAlignY=35
+&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University
+&descAlignY=60
+&descAlign=50
+&animation=gradientShift" width="100%" />
 </div>
 
 <!-- INTRO: Typing Animation (Adaptive: White in Dark Mode) -->
