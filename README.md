@@ -32,7 +32,7 @@
 </div>
 
 <br>
-<!-- TECH STACK (Updated Order) -->
+<!-- TECH STACK (Final Professional Version) -->
 <h3 align="center">🛠 Tech Stack</h3>
 
 <!-- Frontend & Mobile -->
@@ -60,8 +60,8 @@
 <div align="center">
   <h4 style="margin-bottom: 10px;">⚙️ Backend & API</h4>
 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -72,10 +72,9 @@
 
 <!-- AI & Data -->
 <div align="center">
-  <h4 style="margin-bottom: 10px;">🤖 AI, Computer Vision & Data</h4>
+  <h4 style="margin-bottom: 10px;">🤖 AI & Data Science</h4>
 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
