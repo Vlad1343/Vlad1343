@@ -154,8 +154,10 @@
   </a>
   <br><br><br>
 
-  <!-- Honourable Mention -->
-  <img src="https://img.shields.io/badge/🏅_Honourable_Mention-Back--to--Uni_Hackathon-00BFFF?style=for-the-badge&labelColor=000000" height="34" />
+  <!-- Honourable Mention: Mentra -->
+  <a href="https://github.com/Vlad1343/Mentra">
+    <img src="https://img.shields.io/badge/🏅_Honourable_Mention-Back--to--Uni_Hackathon-00BFFF?style=for-the-badge&labelColor=000000&logo=github" height="34" />
+  </a>
 </div>
 
 <br>
