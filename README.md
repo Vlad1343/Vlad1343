@@ -43,11 +43,11 @@
 
 <br>
 
-<!-- GITHUB CAREER ANALYTICS (Strategic placement for immediate proof) -->
+<!-- GITHUB CAREER ANALYTICS -->
 <hr>
 <div align="center">
-  <h3>📊 Career Analytics</h3>
-  <img src="https://raw.githubusercontent.com/Vlad1343/Vlad1343/main/github-metrics.svg" alt="Detailed Metrics" width="100%">
+  <h3 align="center">📊 Career Analytics</h3>
+  <img src="https://raw.githubusercontent.com/Vlad1343/Vlad1343/main/github-metrics.svg" alt="Detailed Metrics" width="700">
 </div>
 
 <br>

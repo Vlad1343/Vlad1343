@@ -15,26 +15,18 @@ jobs:
           user: Vlad1343
           template: classic
           filename: github-metrics.svg
-          
-          # BASE: Metadata removed to keep the bottom clean
           base: header, activity, community, repositories
           config_timezone: Europe/London
-          
-          # CALENDAR: Stretched half-year view
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          
-          # LINES: Show your total coding volume
           plugin_lines: yes
-
-          # STYLE: Emerald Green & The "Zoom Out" Fix
           config_order: base.header, isocalendar, base.activity, base.community
           style: |
-            /* Internal Scaling to make it harmonic with README text */
+            /* Significant Zoom Out */
             .container { 
-              transform: scale(0.85); 
+              transform: scale(0.7); 
               transform-origin: top center; 
-              margin-bottom: -105px; 
+              margin-bottom: -180px; 
             }
             /* Emerald Branding */
             .header { color: #059669; }
