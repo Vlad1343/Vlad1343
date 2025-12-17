@@ -25,9 +25,9 @@
 
 <br>
 
-<!-- ABOUT ME SECTION -->
+<!-- ABOUT ME SECTION (h2) -->
 <div align="center">
-  <h3>🚀 About Me</h3>
+  <h2>🚀 About Me</h2>
   <div align="left">
     <p>
       I am a <b>CS Student at the University of Manchester</b> and a Software Engineer specializing in <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Computer Vision</b>.
@@ -43,20 +43,20 @@
 
 <br>
 
-<!-- TECH STACK -->
-<h3 align="center">🛠 Tech Stack</h3>
+<!-- TECH STACK (h2) -->
+<h2 align="center">🛠 Tech Stack</h2>
 
-<!-- Frontend & Mobile -->
+<!-- Frontend & Mobile (h3) -->
 <div align="center">
-  <h4 style="margin-bottom: 10px;">📱 Frontend & Mobile</h4>
+  <h3 style="margin-bottom: 10px;">📱 Frontend & Mobile</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -67,9 +67,9 @@
 
 <br>
 
-<!-- Backend & API -->
+<!-- Backend & API (h3) -->
 <div align="center">
-  <h4 style="margin-bottom: 10px;">⚙️ Backend & API</h4>
+  <h3 style="margin-bottom: 10px;">⚙️ Backend & API</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -81,9 +81,9 @@
 
 <br>
 
-<!-- AI, ML & Computer Vision -->
+<!-- AI, ML & Computer Vision (h3) -->
 <div align="center">
-  <h4 style="margin-bottom: 10px;">🤖 AI, ML & Computer Vision</h4>
+  <h3 style="margin-bottom: 10px;">🤖 AI, ML & Computer Vision</h3>
   <!-- Core Frameworks -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -106,9 +106,9 @@
 
 <br>
 
-<!-- Data Science & Analytics -->
+<!-- Data Science & Analytics (h3) -->
 <div align="center">
-  <h4 style="margin-bottom: 10px;">📊 Data Science & Analytics</h4>
+  <h3 style="margin-bottom: 10px;">📊 Data Science & Analytics</h3>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
@@ -119,9 +119,9 @@
 
 <br>
 
-<!-- Database & DevOps -->
+<!-- Database & DevOps (h3) -->
 <div align="center">
-  <h4 style="margin-bottom: 10px;">💾 Database & DevOps</h4>
+  <h3 style="margin-bottom: 10px;">💾 Database & DevOps</h3>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -134,8 +134,8 @@
 
 <br>
 
-<!-- 🏆 Hackathon Achievements -->
-<h3 align="center">🏆 Hackathon Achievements</h3>
+<!-- 🏆 Hackathon Achievements (h2) -->
+<h2 align="center">🏆 Hackathon Achievements</h2>
 <div align="center">
   <!-- 1st Place: Gesture Translator -->
   <a href="https://github.com/Vlad1343/Gesture-Translator">
@@ -163,8 +163,8 @@
 
 <br>
 
-<!-- CONTRIBUTION SNAKE -->
-<h3 align="center">🐍 Contribution Activity</h3>
+<!-- CONTRIBUTION SNAKE (h2) -->
+<h2 align="center">🐍 Contribution Activity</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vlad1343/Vlad1343/main/dist/github-contribution-grid-snake-dark.svg">
