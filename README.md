@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
-<!-- INTRO: Typing Animation (Fixed: No layout shift, continuous loop) -->
+<!-- INTRO: Typing Animation -->
 <div align="center">
   <br>
   <picture>
@@ -25,9 +25,9 @@
 
 <br>
 
-<!-- ABOUT ME SECTION (h2) -->
+<!-- ABOUT ME SECTION (No HR line, h3 used to remove bottom underline) -->
 <div align="center">
-  <h2>🚀 About Me</h2>
+  <h3>🚀 About Me</h3>
   <div align="left">
     <p>
       I am a <b>CS Student at the University of Manchester</b> and a Software Engineer specializing in <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Computer Vision</b>.
@@ -43,10 +43,11 @@
 
 <br>
 
-<!-- TECH STACK (h2) -->
-<h2 align="center">🛠 Tech Stack</h2>
+<!-- TECH STACK (HR line added ABOVE) -->
+<hr>
+<h3 align="center">🛠 Tech Stack</h3>
 
-<!-- Frontend & Mobile (h3) -->
+<!-- Frontend & Mobile -->
 <div align="center">
   <h3 style="margin-bottom: 10px;">📱 Frontend & Mobile</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -67,7 +68,7 @@
 
 <br>
 
-<!-- Backend & API (h3) -->
+<!-- Backend & API -->
 <div align="center">
   <h3 style="margin-bottom: 10px;">⚙️ Backend & API</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -81,7 +82,7 @@
 
 <br>
 
-<!-- AI, ML & Computer Vision (h3) -->
+<!-- AI, ML & Computer Vision -->
 <div align="center">
   <h3 style="margin-bottom: 10px;">🤖 AI, ML & Computer Vision</h3>
   <!-- Core Frameworks -->
@@ -106,7 +107,7 @@
 
 <br>
 
-<!-- Data Science & Analytics (h3) -->
+<!-- Data Science & Analytics -->
 <div align="center">
   <h3 style="margin-bottom: 10px;">📊 Data Science & Analytics</h3>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -119,7 +120,7 @@
 
 <br>
 
-<!-- Database & DevOps (h3) -->
+<!-- Database & DevOps -->
 <div align="center">
   <h3 style="margin-bottom: 10px;">💾 Database & DevOps</h3>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -134,8 +135,9 @@
 
 <br>
 
-<!-- 🏆 Hackathon Achievements (h2) -->
-<h2 align="center">🏆 Hackathon Achievements</h2>
+<!-- 🏆 Hackathon Achievements (HR line added ABOVE) -->
+<hr>
+<h3 align="center">🏆 Hackathon Achievements</h3>
 <div align="center">
   <!-- 1st Place: Gesture Translator -->
   <a href="https://github.com/Vlad1343/Gesture-Translator">
@@ -163,8 +165,9 @@
 
 <br>
 
-<!-- CONTRIBUTION SNAKE (h2) -->
-<h2 align="center">🐍 Contribution Activity</h2>
+<!-- CONTRIBUTION SNAKE (HR line added ABOVE) -->
+<hr>
+<h3 align="center">🐍 Contribution Activity</h3>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vlad1343/Vlad1343/main/dist/github-contribution-grid-snake-dark.svg">
