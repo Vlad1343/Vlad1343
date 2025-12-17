@@ -7,9 +7,12 @@
 <div align="center">
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
-    <img alt="Typing SVG" height="50" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
+    <!-- Dark Mode: White Text -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
+    <!-- Light Mode: Black Text -->
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
+    <!-- Fallback Image: Black Text -->
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
   </picture>
 </div>
 
