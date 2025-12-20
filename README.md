@@ -43,12 +43,12 @@
   <div id="tech-scroll"></div> <!-- TARGET FOR TECH STACK -->
   <div align="left">
     <p>
-      I am a <b>CS Student at the University of Manchester</b> and a Software Engineer specializing in <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Computer Vision</b>.
+      I am a <b>CS Student at the University of Manchester</b> and a Software Engineer specializing in <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Computer Vision</b>
     </p>
     <p>
       🏆 <b>Award-Winning Builder:</b> Secured <b>3x Hackathon victories</b> by turning innovative ideas into functional, high-quality software under tight deadlines<br>
       💻 <b>Technical Expertise:</b> Experienced in building scalable, AI-native applications that integrate <b>LLMs</b> and <b>Computer Vision</b> into modern web architectures<br>
-      🚀 <b>Open Source & Impact:</b> Committed to writing clean, maintainable code, contributing to open-source projects, and solving real-world engineering challenges.<br>
+      🚀 <b>Open Source & Impact:</b> Committed to writing clean, maintainable code, contributing to open-source projects, and solving real-world engineering challenges<br>
       ⚡ <b>Fun Fact:</b> I designed an autonomous robot that solves a Rubik's Cube in under 60 seconds! 🧩
     </p>
   </div>
