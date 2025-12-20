@@ -30,12 +30,12 @@
   <h3>🚀 About Me</h3>
   <div align="left">
     <p>
-      I am a <b>CS Student at the University of Manchester</b> and a Software Engineer specializing in <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Computer Vision</b>
+      I am a <b>CS Student at the University of Manchester</b> and a Software Engineer specializing in <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Computer Vision</b>.
     </p>
     <p>
       🏆 <b>Award-Winning Builder:</b> Secured <b>3x Hackathon victories</b> by turning innovative ideas into functional, high-quality software under tight deadlines<br>
       💻 <b>Technical Expertise:</b> Experienced in building scalable, AI-native applications that integrate <b>LLMs</b> and <b>Computer Vision</b> into modern web architectures<br>
-      🚀 <b>Open Source & Impact:</b> Committed to writing clean, maintainable code, contributing to open-source projects, and solving real-world engineering challenges<br>
+      🚀 <b>Open Source & Impact:</b> Committed to writing clean, maintainable code, contributing to open-source projects, and solving real-world engineering challenges.<br>
       ⚡ <b>Fun Fact:</b> I designed an autonomous robot that solves a Rubik's Cube in under 60 seconds! 🧩
     </p>
   </div>
@@ -43,11 +43,11 @@
 
 <br>
 
-<!-- GITHUB ANALYTICS SECTION -->
+<!-- GITHUB CAREER ANALYTICS (Strategic placement for immediate proof) -->
 <hr>
 <div align="center">
-  <h3>📊 GitHub Analytics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Vlad1343&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&custom_title=Vlad%27s+GitHub+Stats" alt="Vlad's GitHub Stats" />
+  <h3>📊 Career Analytics</h3>
+  <img src="https://raw.githubusercontent.com/Vlad1343/Vlad1343/main/github-metrics.svg" alt="Detailed Metrics" width="100%">
 </div>
 
 <br>
@@ -159,7 +159,7 @@
 
 <br>
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- CONTRIBUTION SNAKE (Fun Visual closer) -->
 <hr>
 <h3 align="center">🐍 Contribution Activity</h3>
 <div align="center">
