@@ -1,21 +1,22 @@
 <!-- HEADER: Emerald Green + White Text + Montserrat Font -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
+  <img id="about-scroll" src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
-<!-- PROFESSIONAL NAVIGATION (Targeting higher offsets) -->
+<!-- PROFESSIONAL NAVIGATION (Targeting High Offsets) -->
 <div align="center">
-  <a href="#about-target"><b>🚀 About Me</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#stats-target"><b>📊 Analytics</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#tech-target"><b>🛠️ Tech Stack</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#wins-target"><b>🏆 Achievements</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#activity-target"><b>💻 Contributions</b></a>
+  <a href="#about-scroll"><b>🚀 About Me</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#stats-scroll"><b>📊 Analytics</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#tech-scroll"><b>🛠️ Tech Stack</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#wins-scroll"><b>🏆 Achievements</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#activity-scroll"><b>💻 Contributions</b></a>
 </div>
 
-<br id="about-target"> <!-- This makes 'About Me' scroll to the top of the typing animation -->
+<br>
 
 <!-- INTRO: Typing Animation -->
 <div align="center">
+  <div id="stats-scroll"></div> <!-- TARGET FOR ANALYTICS: Placed here so Analytics is centered -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
@@ -39,6 +40,7 @@
 <hr>
 <div align="center">
   <h3>🚀 About Me</h3>
+  <div id="tech-scroll"></div> <!-- TARGET FOR TECH STACK -->
   <div align="left">
     <p>
       I am a <b>CS Student at the University of Manchester</b> and a Software Engineer specializing in <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Computer Vision</b>.
@@ -52,17 +54,17 @@
   </div>
 </div>
 
-<br id="stats-target"> <!-- Clicking Analytics will now show the bottom of About Me for spacing -->
+<br>
 
 <!-- GITHUB ANALYTICS SECTION -->
 <hr>
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
-  <!-- General Stats Card -->
+  <div id="wins-scroll"></div> <!-- TARGET FOR ACHIEVEMENTS -->
   <img src="https://github-readme-stats.vercel.app/api?username=Vlad1343&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&custom_title=Vlad%27s+GitHub+Stats" alt="Vlad's GitHub Stats" />
 </div>
 
-<br id="tech-target"> <!-- Clicking Tech Stack will now show the bottom of Analytics for spacing -->
+<br>
 
 <!-- TECH STACK -->
 <hr>
@@ -86,6 +88,8 @@
   <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
 </div>
 
+<div id="activity-scroll"></div> <!-- TARGET FOR CONTRIBUTIONS -->
+
 <br>
 
 <div align="center">
@@ -99,7 +103,7 @@
   <img src="https://img.shields.io/badge/Edge_Functions-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
-<br id="wins-target">
+<br>
 
 <div align="center">
   <h4 style="margin-bottom: 10px;">🤖 AI, ML & Computer Vision</h4>
@@ -146,8 +150,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-<br id="activity-target">
+<br>
 
+<!-- 🏆 Hackathon Achievements -->
 <hr>
 <h3 align="center">🏆 Hackathon Achievements</h3>
 <div align="center">
@@ -170,6 +175,7 @@
 
 <br>
 
+<!-- CONTRIBUTION SNAKE -->
 <hr>
 <h3 align="center">🐍 Contribution Activity</h3>
 <div align="center">
