@@ -1,22 +1,10 @@
 <!-- HEADER: Emerald Green + White Text + Montserrat Font -->
 <div align="center">
-  <img id="about-scroll" src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
 </div>
-
-<!-- PROFESSIONAL NAVIGATION (Targeting High Offsets) -->
-<div align="center">
-  <a href="#about-scroll"><b>🚀 About Me</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#stats-scroll"><b>📊 Analytics</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#tech-scroll"><b>🛠️ Tech Stack</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#wins-scroll"><b>🏆 Achievements</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#activity-scroll"><b>💻 Contributions</b></a>
-</div>
-
-<br>
 
 <!-- INTRO: Typing Animation -->
 <div align="center">
-  <div id="stats-scroll"></div> <!-- TARGET FOR ANALYTICS: Placed here so Analytics is centered -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
@@ -40,7 +28,6 @@
 <hr>
 <div align="center">
   <h3>🚀 About Me</h3>
-  <div id="tech-scroll"></div> <!-- TARGET FOR TECH STACK -->
   <div align="left">
     <p>
       I am a <b>CS Student at the University of Manchester</b> and a Software Engineer specializing in <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Computer Vision</b>
@@ -60,7 +47,6 @@
 <hr>
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
-  <div id="wins-scroll"></div> <!-- TARGET FOR ACHIEVEMENTS -->
   <img src="https://github-readme-stats.vercel.app/api?username=Vlad1343&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&custom_title=Vlad%27s+GitHub+Stats" alt="Vlad's GitHub Stats" />
 </div>
 
@@ -87,8 +73,6 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
 </div>
-
-<div id="activity-scroll"></div> <!-- TARGET FOR CONTRIBUTIONS -->
 
 <br>
 
