@@ -3,15 +3,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
+<!-- PROFESSIONAL NAVIGATION -->
+<div align="center">
+  <a href="#about"><b>🚀 About Me</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#stats"><b>📊 Analytics</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#tech"><b>🛠️ Tech Stack</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#wins"><b>🏆 Achievements</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#activity"><b>💻 Contributions</b></a>
+</div>
+
+<br>
+
 <!-- INTRO: Typing Animation -->
 <div align="center">
-  <br>
   <picture>
-    <!-- Dark Mode: White Text -->
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
-    <!-- Light Mode: Original Dark Gray Text -->
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
-    <!-- Fallback -->
     <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;3x+Hackathon+Winner;Open+Source+Contributor">
   </picture>
 </div>
@@ -28,10 +35,10 @@
 
 <br>
 
-<!-- ABOUT ME SECTION (Line Added Above) -->
+<!-- ABOUT ME SECTION -->
 <hr>
 <div align="center">
-  <h3>🚀 About Me</h3>
+  <h3 id="about">🚀 About Me</h3>
   <div align="left">
     <p>
       I am a <b>CS Student at the University of Manchester</b> and a Software Engineer specializing in <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Computer Vision</b>.
@@ -47,11 +54,20 @@
 
 <br>
 
-<!-- TECH STACK (Line Above) -->
+<!-- GITHUB ANALYTICS SECTION -->
 <hr>
-<h3 align="center">🛠 Tech Stack</h3>
+<div align="center">
+  <h3 id="stats">📊 GitHub Analytics</h3>
+  <!-- General Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Vlad1343&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&custom_title=Vlad%27s+GitHub+Stats" alt="Vlad's GitHub Stats" />
+</div>
 
-<!-- Frontend & Mobile (Changed to h4 for size hierarchy) -->
+<br>
+
+<!-- TECH STACK -->
+<hr>
+<h3 id="tech" align="center">🛠 Tech Stack</h3>
+
 <div align="center">
   <h4 style="margin-bottom: 10px;">📱 Frontend & Mobile</h4>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -72,7 +88,6 @@
 
 <br>
 
-<!-- Backend & API (Changed to h4) -->
 <div align="center">
   <h4 style="margin-bottom: 10px;">⚙️ Backend & API</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -86,22 +101,18 @@
 
 <br>
 
-<!-- AI, ML & Computer Vision (Changed to h4) -->
 <div align="center">
   <h4 style="margin-bottom: 10px;">🤖 AI, ML & Computer Vision</h4>
-  <!-- Core Frameworks -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <br>
-  <!-- Computer Vision -->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/MediaPipe-00B0FF?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/DeepFace-FF4081?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
   <br>
-  <!-- LLM Engineering & Fine Tuning -->
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logo=openai&logoColor=white" />
@@ -111,7 +122,6 @@
 
 <br>
 
-<!-- Data Science & Analytics (Changed to h4) -->
 <div align="center">
   <h4 style="margin-bottom: 10px;">📊 Data Science & Analytics</h4>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -124,7 +134,6 @@
 
 <br>
 
-<!-- Database & DevOps (Changed to h4) -->
 <div align="center">
   <h4 style="margin-bottom: 10px;">💾 Database & DevOps</h4>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -139,29 +148,22 @@
 
 <br>
 
-<!-- 🏆 Hackathon Achievements (Line Above) -->
+<!-- 🏆 Hackathon Achievements -->
 <hr>
-<h3 align="center">🏆 Hackathon Achievements</h3>
+<h3 id="wins" align="center">🏆 Hackathon Achievements</h3>
 <div align="center">
-  <!-- 1st Place: Gesture Translator -->
   <a href="https://github.com/Vlad1343/Gesture-Translator">
     <img src="https://img.shields.io/badge/🥇_1st_Place-Accelerate_Me_x_Housr_--_ElevenLabs_Challenge-FFD700?style=for-the-badge&labelColor=000000&logo=github" height="34"/>
   </a>
   <br><br>
-
-  <!-- 2nd Place: SAVR -->
   <a href="https://github.com/Vlad1343/SAVR">
     <img src="https://img.shields.io/badge/🥈_2nd_Place-GreatUniHack_--_Housr_Challenge-C0C0C0?style=for-the-badge&labelColor=000000&logo=github" height="34"/>
   </a>
   <br><br>
-
-  <!-- 3rd Place: Rest Quest -->
   <a href="https://github.com/Vlad1343/Rest-Quest">
     <img src="https://img.shields.io/badge/🥉_3rd_Place-GreatUniHack_--_Booking.com_Challenge-CD7F32?style=for-the-badge&labelColor=000000&logo=github" height="34" />
   </a>
   <br><br><br>
-
-  <!-- Honourable Mention: Mentra -->
   <a href="https://github.com/Vlad1343/Mentra">
     <img src="https://img.shields.io/badge/_Honourable_Mention-Back--to--Uni_Hackathon-00BFFF?style=for-the-badge&labelColor=000000&logo=github" height="34" />
   </a>
@@ -169,9 +171,9 @@
 
 <br>
 
-<!-- CONTRIBUTION SNAKE (Line Above) -->
+<!-- CONTRIBUTION SNAKE -->
 <hr>
-<h3 align="center">🐍 Contribution Activity</h3>
+<h3 id="activity" align="center">🐍 Contribution Activity</h3>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vlad1343/Vlad1343/main/dist/github-contribution-grid-snake-dark.svg">
@@ -182,7 +184,7 @@
 
 <br>
 
-<!-- FOOTER: Matching Emerald Green -->
+<!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=100&section=footer" width="100%" />
 </div>
