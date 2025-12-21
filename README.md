@@ -3,12 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
+<!-- PROFESSIONAL NAVIGATION (Fixed scrolling labels) -->
 <div align="center">
-  <a href="#about-section"><b>🚀 About Me</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#stats-section"><b>📊 Analytics</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#tech-section"><b>🛠️ Tech Stack</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#wins-section"><b>🏆 Achievements</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#activity-section"><b>💻 Contributions</b></a>
+  <a href="#about-scroll"><b>🚀 About Me</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#stats-scroll"><b>📊 Analytics</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#tech-scroll"><b>🛠️ Tech Stack</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#wins-scroll"><b>🏆 Achievements</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#activity-scroll"><b>💻 Contributions</b></a>
 </div>
 
 <br>
@@ -35,9 +36,11 @@
 <br>
 
 <!-- ABOUT ME SECTION -->
+<span id="about-scroll"></span>
+<br><br>
 <hr>
 <div align="center">
-  <h3 id="about">🚀 About Me</h3>
+  <h3>🚀 About Me</h3>
   <div align="left">
     <p>
       I am a <b>CS Student at the University of Manchester</b> and a Software Engineer specializing in <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Computer Vision</b>.
@@ -54,9 +57,11 @@
 <br>
 
 <!-- GITHUB ANALYTICS SECTION -->
+<span id="stats-scroll"></span>
+<br><br>
 <hr>
 <div align="center">
-  <h3 id="stats">📊 GitHub Analytics</h3>
+  <h3>📊 GitHub Analytics</h3>
   <!-- General Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=Vlad1343&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&custom_title=Vlad%27s+GitHub+Stats" alt="Vlad's GitHub Stats" />
 </div>
@@ -64,8 +69,10 @@
 <br>
 
 <!-- TECH STACK -->
+<span id="tech-scroll"></span>
+<br><br>
 <hr>
-<h3 id="tech" align="center">🛠 Tech Stack</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
   <h4 style="margin-bottom: 10px;">📱 Frontend & Mobile</h4>
@@ -148,8 +155,10 @@
 <br>
 
 <!-- 🏆 Hackathon Achievements -->
+<span id="wins-scroll"></span>
+<br><br>
 <hr>
-<h3 id="wins" align="center">🏆 Hackathon Achievements</h3>
+<h3 align="center">🏆 Hackathon Achievements</h3>
 <div align="center">
   <a href="https://github.com/Vlad1343/Gesture-Translator">
     <img src="https://img.shields.io/badge/🥇_1st_Place-Accelerate_Me_x_Housr_--_ElevenLabs_Challenge-FFD700?style=for-the-badge&labelColor=000000&logo=github" height="34"/>
@@ -171,8 +180,10 @@
 <br>
 
 <!-- CONTRIBUTION SNAKE -->
+<span id="activity-scroll"></span>
+<br><br>
 <hr>
-<h3 id="activity" align="center">🐍 Contribution Activity</h3>
+<h3 align="center">🐍 Contribution Activity</h3>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vlad1343/Vlad1343/main/dist/github-contribution-grid-snake-dark.svg">
@@ -183,7 +194,7 @@
 
 <br>
 
-<!-- FOOTER -->
+<!-- FOOTER: Matching Emerald Green -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=100&section=footer" width="100%" />
 </div>
