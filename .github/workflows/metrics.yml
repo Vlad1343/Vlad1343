@@ -17,25 +17,21 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
           
-          # Isometric Calendar
+          # Isometric Calendar (The 3D View)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          # Achievements
+          # Achievements (Simplified to fix the Unexpected Error)
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: B 
+          plugin_achievements_secrets: yes
           
-          # Languages (Hiding HTML/CSS)
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, scss, jupyter notebook
-          plugin_languages_details: bytes-size, percentage
-          
-          # Lines of code
+          # Lines of code (True lifetime count)
           plugin_lines: yes
 
-          # Style (Emerald Green)
-          config_order: base.header, isocalendar, languages, achievements
+          # Style (Emerald Green & Section Order)
+          # We removed 'languages' from the order here
+          config_order: base.header, isocalendar, achievements
           style: |
             .header { color: #059669; }
             .stat { color: #059669; }
