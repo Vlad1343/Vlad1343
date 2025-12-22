@@ -15,20 +15,22 @@ jobs:
           user: Vlad1343
           template: classic
           filename: github-metrics.svg
+          
+          # 1. REMOVED 'metadata' from here to kill the footer text
           base: header, activity, community, repositories
           config_timezone: Europe/London
           
-          # STRETCH FIX: Changed to half-year to remove inactive gap
+          # 2. CALENDAR: Kept at half-year to keep it "stretched" and active
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # ACHIEVEMENT FIX: Added threshold and explicit display settings
+          # 3. ACHIEVEMENTS FIX: Added 'secrets' and simplified
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: C     # Show all tiers of achievements
-          plugin_achievements_limit: 10        # Limit to 10 to prevent errors
+          plugin_achievements_secrets: yes
+          plugin_achievements_limit: 10
           
-          # Lines of code
+          # 4. LINES: Show true commit volume
           plugin_lines: yes
 
           # Style (Emerald Green)
