@@ -16,25 +16,20 @@ jobs:
           template: classic
           filename: github-metrics.svg
           
-          # 1. REMOVED 'metadata' from here to kill the footer text
+          # BASE: Metadata removed to keep the bottom of the image clean
           base: header, activity, community, repositories
           config_timezone: Europe/London
           
-          # 2. CALENDAR: Kept at half-year to keep it "stretched" and active
+          # CALENDAR: Stretched half-year view (removes the empty inactive gap)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # 3. ACHIEVEMENTS FIX: Added 'secrets' and simplified
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_achievements_limit: 10
-          
-          # 4. LINES: Show true commit volume
+          # LINES: Show your total lines of code/coding volume
           plugin_lines: yes
 
-          # Style (Emerald Green)
-          config_order: base.header, isocalendar, achievements
+          # STYLE: Emerald Green & Order
+          # Shows: Header -> 3D Calendar -> Commits/PRs -> Stars/Followers
+          config_order: base.header, isocalendar, base.activity, base.community
           style: |
             .header { color: #059669; }
             .stat { color: #059669; }
