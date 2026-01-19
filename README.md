@@ -83,11 +83,17 @@
 
 <div align="center">
   <h4 style="margin-bottom: 10px;">⚙️ Backend & API</h4>
+  <!-- Row 1: Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <br>
+  <!-- Row 2: Frameworks & Runtime -->
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <br>
+  <!-- Row 3: Interfaces & Edge -->
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Edge_Functions-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
@@ -117,12 +123,15 @@
 
 <div align="center">
   <h4 style="margin-bottom: 10px;">📊 Data Science & Analytics</h4>
+  <!-- Row 1: Core -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <br>
+  <!-- Row 2: Visualization -->
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4C5B64?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Recharts-22b5bf?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
 
 <br>
