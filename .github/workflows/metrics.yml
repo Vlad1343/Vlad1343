@@ -5,6 +5,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     permissions:
       contents: write
     steps:
@@ -19,6 +20,4 @@ jobs:
           config_timezone: Europe/London
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_lines: yes
-          plugin_lines_repositories_limit: 4
           config_order: base.header, isocalendar, base.activity, base.community
