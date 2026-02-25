@@ -11,9 +11,8 @@ jobs:
       - name: Detailed Metrics
         uses: lowlighter/metrics@latest
         with:
-          # Prefer built-in token to avoid failures from expired/missing custom secrets.
-          # If you need extra scopes, add a METRICS_TOKEN secret and replace this value.
-          token: ${{ github.token }}
+          # Using METRICS token for full access to all repositories and accurate star counts
+          token: ${{ secrets.METRICS }}
           user: Vlad1343
           template: classic
           filename: github-metrics.svg
