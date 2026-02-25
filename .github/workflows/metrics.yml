@@ -9,9 +9,8 @@ jobs:
       contents: write
     steps:
       - name: Detailed Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
-          # Using METRICS token for full access to all repositories and accurate star counts
           token: ${{ secrets.METRICS }}
           user: Vlad1343
           template: classic
@@ -21,4 +20,5 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_lines: yes
+          plugin_lines_repositories_limit: 4
           config_order: base.header, isocalendar, base.activity, base.community
