@@ -22,17 +22,3 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_lines: yes
           config_order: base.header, isocalendar, base.activity, base.community
-          style: |
-            /* The 0.5 Ultra-Zoom */
-            svg { 
-              transform: scale(0.5); 
-              transform-origin: top center; 
-            }
-            /* Closes the large gap under the stats */
-            .container {
-              margin-bottom: -620px;
-            }
-            /* Emerald Branding */
-            .header { color: #059669; }
-            .stat { color: #059669; }
-            .field svg { fill: #059669; }
