@@ -30,13 +30,11 @@
   <h3>🚀 About Me</h3>
   <div align="left">
     <p>
-      I build products that solve real problems for real people. Whether it's an english speaking platform or a voice-powered coding assistant, I focus on creating tools that make complex tasks accessible and enjoyable.
-    </p>
-    <p>
-      My work centers on understanding how people interact with technology. I believe the best products feel intuitive, remove friction, and genuinely improve someone's productivity.
-    </p>
-    <p>
-      Currently studying at <b>Manchester</b> while building the next generation of intelligent applications. Always excited to collaborate on projects that push boundaries.
+      I am a <b>CS Student at the University of Manchester</b> and a Software Engineer specializing in <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Computer Vision</b>.<br>
+      🏆 <b>Award-Winning Builder:</b> Secured <b>5x Hackathon victories</b> by turning innovative ideas into functional, high-quality software under tight deadlines.<br>
+      💻 <b>Technical Expertise:</b> Experienced in building scalable, AI-native applications that integrate <b>LLMs</b> and <b>Computer Vision</b> into modern web architectures.<br>
+      🚀 <b>Open Source & Impact:</b> Committed to writing clean, maintainable code, contributing to open-source projects, and solving real-world engineering challenges.<br>
+      ⚡ <b>Fun Fact:</b> I designed an autonomous robot that solves a Rubik's Cube in under 60 seconds! 🧩
     </p>
   </div>
 </div>
