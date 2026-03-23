@@ -31,7 +31,7 @@
   <div align="left">
     <p>
       I am a <b>CS Student at the University of Manchester</b> and a Software Engineer specializing in <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Computer Vision</b>.<br>
-      🏆 <b>Award-Winning Builder:</b> Secured <b>6x Hackathon victories</b> by turning innovative ideas into functional, high-quality software under tight deadlines, consistently impressing judges and peers while demonstrating strong problem-solving skills.<br>
+      🏆 <b>Award-Winning Builder:</b> Secured <b><u>6x Hackathon victories</u></b> by turning innovative ideas into functional, high-quality software under tight deadlines, consistently impressing judges and peers while demonstrating strong problem-solving skills.<br>
       💻 <b>Technical Expertise:</b> Experienced in building scalable, AI-native applications that integrate <b>LLMs</b> and <b>Computer Vision</b> into modern web architectures, optimizing performance, reliability, and overall user experience across platforms.<br>
       🚀 <b>Open Source & Impact:</b> Committed to writing clean, maintainable code, contributing to open-source projects, and solving real-world engineering challenges with practical, efficient, and creative solutions that make a tangible difference.<br>
       ⚡ <b>Fun Fact:</b> I designed an autonomous robot that solves a Rubik's Cube in under 60 seconds! 🧩
