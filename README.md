@@ -6,9 +6,9 @@
 <!-- INTRO: Typing Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Software+Engineer;5x+Hackathon+Winner;Open+Source+Contributor">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;5x+Hackathon+Winner;Open+Source+Contributor">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;5x+Hackathon+Winner;Open+Source+Contributor">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Software+Engineer;6x+Hackathon+Winner;Open+Source+Contributor">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;6x+Hackathon+Winner;Open+Source+Contributor">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;6x+Hackathon+Winner;Open+Source+Contributor">
   </picture>
 </div>
 
@@ -31,7 +31,7 @@
   <div align="left">
     <p>
       I am a <b>CS Student at the University of Manchester</b> and a Software Engineer specializing in <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Computer Vision</b>.<br>
-      🏆 <b>Award-Winning Builder:</b> Secured <b>5x Hackathon victories</b> by turning innovative ideas into functional, high-quality software under tight deadlines, consistently impressing judges and peers while demonstrating strong problem-solving skills.<br>
+      🏆 <b>Award-Winning Builder:</b> Secured <b>6x Hackathon victories</b> by turning innovative ideas into functional, high-quality software under tight deadlines, consistently impressing judges and peers while demonstrating strong problem-solving skills.<br>
       💻 <b>Technical Expertise:</b> Experienced in building scalable, AI-native applications that integrate <b>LLMs</b> and <b>Computer Vision</b> into modern web architectures, optimizing performance, reliability, and overall user experience across platforms.<br>
       🚀 <b>Open Source & Impact:</b> Committed to writing clean, maintainable code, contributing to open-source projects, and solving real-world engineering challenges with practical, efficient, and creative solutions that make a tangible difference.<br>
       ⚡ <b>Fun Fact:</b> I designed an autonomous robot that solves a Rubik's Cube in under 60 seconds! 🧩
@@ -152,6 +152,10 @@
 <div align="center">
   <a href="https://github.com/Vlad1343/Gesture-Translator">
     <img src="https://img.shields.io/badge/🥇_1st_Place-Accelerate_Me_x_Housr_--_ElevenLabs_Challenge-FFD700?style=for-the-badge&labelColor=000000&logo=github" height="34"/>
+  </a>
+  <br><br>
+  <a href="https://github.com/Vlad1343/Hackabot">
+    <img src="https://img.shields.io/badge/🥈_2nd_Place-Hack--A--Bot_2026_--_Creative_Challenge-C0C0C0?style=for-the-badge&labelColor=000000&logo=github" height="34"/>
   </a>
   <br><br>
   <a href="https://github.com/Vlad1343/SAVR">
