@@ -1,6 +1,8 @@
 name: Metrics
+
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 concurrency:
@@ -10,22 +12,22 @@ concurrency:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
     permissions:
       contents: write
+
     steps:
       - name: Detailed Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS != '' && secrets.METRICS || github.token }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: Vlad1343
           template: classic
           filename: github-metrics.svg
           base: header, activity, community
           config_timezone: Europe/London
-          retries: 3
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_stars: yes
-          plugin_stars_limit: 8
-          config_order: base.header, isocalendar, base.activity, base.community
+          plugin_stars_limit: 0
+          repositories_affiliations: owner, collaborator, organization_member
