@@ -22,6 +22,8 @@ jobs:
           template: classic
           filename: github-metrics.svg
           base: header, activity, community, repositories
+          repositories_affiliations: owner
+          repositories_forks: no
           config_timezone: Europe/London
           retries: 3
           plugin_isocalendar: yes
