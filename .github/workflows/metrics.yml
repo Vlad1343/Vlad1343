@@ -21,11 +21,11 @@ jobs:
           user: Vlad1343
           template: classic
           filename: github-metrics.svg
-          base: header, activity, community, repositories
-          repositories_affiliations: owner
-          repositories_forks: no
+          base: header, activity, community
           config_timezone: Europe/London
           retries: 3
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_stars: yes
+          plugin_stars_limit: 8
           config_order: base.header, isocalendar, base.activity, base.community
