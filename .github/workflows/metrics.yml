@@ -28,6 +28,4 @@ jobs:
           config_timezone: Europe/London
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_stars: yes
-          plugin_stars_limit: 0
           repositories_affiliations: owner, collaborator, organization_member
