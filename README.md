@@ -33,10 +33,10 @@
   <h3>🚀 About Me</h3>
   <div align="left">
     <p>
-      I am a <b>CS Student at the University of Manchester</b> and a Software Engineer specializing in <b>Full-Stack Development</b>, <b>AI/ML</b>, and <b>Computer Vision</b>.<br>
-      🏆 <b>Award-Winning Builder:</b> Secured <b><ins>6x Hackathon victories</ins></b> by turning innovative ideas into functional, high-quality software under tight deadlines, consistently impressing judges and peers while demonstrating strong problem-solving skills.<br>
-      💻 <b>Technical Expertise:</b> Experienced in building scalable, AI-native applications that integrate <b>LLMs</b> and <b>Computer Vision</b> into modern web architectures, optimizing performance, reliability, and overall user experience across platforms.<br>
-      🚀 <b>Open Source & Impact:</b> Committed to writing clean, maintainable code, contributing to open-source projects, and solving real-world engineering challenges with practical, efficient, and creative solutions that make a tangible difference.<br>
+      I'm a CS student at the University of Manchester, Hackathon Director at UniCS, and a Zed Campus Ambassador (first cohort ever).<br>
+      🏆 <b>6x Hackathon Winner:</b> from GreatUniHack and Hack-A-Bot to HackEurope, where I was named a HackEurope Scholar. I build things that work and ship, under pressure.<br>
+      🎯 <b>Hackathon Director:</b> I organise GreatUniHack and StudentHack at UniCS Manchester, bringing 400+ students together to build.<br>
+      💻 <b>What I Build:</b> Full-stack apps, AI pipelines, computer vision systems, and autonomous robotics. I focus on end-to-end ownership and shipping production-grade software.<br>
       ⚡ <b>Fun Fact:</b> I designed an autonomous robot that solves a Rubik's Cube in under 60 seconds! 🧩
     </p>
   </div>
@@ -84,6 +84,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
