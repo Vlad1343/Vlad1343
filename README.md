@@ -34,9 +34,9 @@
   <div align="left">
     <p>
       I'm a CS student at the University of Manchester, Hackathon Director at UniCS, and a Zed Campus Ambassador (first cohort ever).<br>
-      🏆 <b>6x Hackathon Winner:</b> from GreatUniHack and Hack-A-Bot to HackEurope, where I was named a HackEurope Scholar. I build things that work and ship, under pressure.<br>
-      🎯 <b>Hackathon Director:</b> I organise GreatUniHack and StudentHack at UniCS Manchester, bringing 400+ students together to build.<br>
-      💻 <b>What I Build:</b> Full-stack apps, AI pipelines, computer vision systems, and autonomous robotics. I focus on end-to-end ownership and shipping production-grade software.<br>
+      🏆 <b>6x Hackathon Winner:</b> From GreatUniHack and Hack-A-Bot to HackEurope, where I was named a HackEurope Scholar. I build things that work and ship, under pressure and against the clock.<br>
+      🎯 <b>Hackathon Director:</b> I organise GreatUniHack and StudentHack at UniCS Manchester, bringing 400+ students together to build. There's nothing like watching a room full of developers turn ideas into working software overnight.<br>
+      💻 <b>What I Build:</b> Full-stack apps, AI pipelines, computer vision systems, and autonomous robotics. I focus on end-to-end ownership and shipping production-grade software that solves real problems.<br>
       ⚡ <b>Fun Fact:</b> I designed an autonomous robot that solves a Rubik's Cube in under 60 seconds! 🧩
     </p>
   </div>
