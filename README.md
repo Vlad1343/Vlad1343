@@ -175,7 +175,7 @@
   </a>
   <br><br><br>
   <a href="https://github.com/Vlad1343/Mentra">
-    <img src="https://img.shields.io/badge/_Finalist-Back--to--Uni_Hackathon-00BFFF?style=for-the-badge&labelColor=000000&logo=github" height="34" />
+    <img src="https://img.shields.io/badge/🥈_2nd_Place-Back--to--Uni_Hackathon-C0C0C0?style=for-the-badge&labelColor=000000&logo=github" height="34" />
   </a>
 </div>
 
