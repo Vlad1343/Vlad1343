@@ -170,12 +170,12 @@
     <img src="https://img.shields.io/badge/🥈_2nd_Place-Ukrsoc_--_Ukrainian_Student_Business_Hackathon-C0C0C0?style=for-the-badge&labelColor=000000&logo=github" height="34"/>
   </a>
   <br><br>
-  <a href="https://github.com/Vlad1343/Rest-Quest">
-    <img src="https://img.shields.io/badge/🥉_3rd_Place-GreatUniHack_--_Booking.com_Challenge-CD7F32?style=for-the-badge&labelColor=000000&logo=github" height="34" />
-  </a>
-  <br><br><br>
   <a href="https://github.com/Vlad1343/Mentra">
     <img src="https://img.shields.io/badge/🥈_2nd_Place-Back--to--Uni_Hackathon-C0C0C0?style=for-the-badge&labelColor=000000&logo=github" height="34" />
+  </a>
+  <br><br>
+  <a href="https://github.com/Vlad1343/Rest-Quest">
+    <img src="https://img.shields.io/badge/🥉_3rd_Place-GreatUniHack_--_Booking.com_Challenge-CD7F32?style=for-the-badge&labelColor=000000&logo=github" height="34" />
   </a>
 </div>
 
