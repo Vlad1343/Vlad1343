@@ -1,14 +1,14 @@
 <!-- HEADER: Emerald Green + White Text + Montserrat Font -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=280&section=header&text=Vlad%20Shutkevych&fontSize=70&fontColor=ffffff&fontFace=Montserrat&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CS%20%26%20Maths%20Student%20at%20Manchester%20University&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <!-- INTRO: Typing Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Software+Engineer;6x+Hackathon+Winner;Open+Source+Contributor">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;6x+Hackathon+Winner;Open+Source+Contributor">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;6x+Hackathon+Winner;Open+Source+Contributor">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Software+Engineer;6x+Hackathon+Winner;Hackathon+Director;Notion+Campus+Leader;Zed+Campus+Ambassador">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;6x+Hackathon+Winner;Hackathon+Director;Notion+Campus+Leader;Zed+Campus+Ambassador">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;6x+Hackathon+Winner;Hackathon+Director;Notion+Campus+Leader;Zed+Campus+Ambassador">
   </picture>
 </div>
 
@@ -33,10 +33,10 @@
   <h3>🚀 About Me</h3>
   <div align="left">
     <p>
-      I'm a CS student at the University of Manchester, Hackathon Director at UniCS, and a Zed Campus Ambassador (first cohort ever). If there's a hackathon, I'm either winning it or running it.<br>
-      🏆 <b>6x Hackathon Winner:</b> From GreatUniHack and Hack-A-Bot to HackEurope, where I was named a HackEurope Scholar. I build things that work and ship, under pressure and against the clock.<br>
-      🎯 <b>Hackathon Director:</b> I organise GreatUniHack and StudentHack at UniCS Manchester, bringing 400+ students together to build. There's nothing like watching a room full of developers turn ideas into working software overnight.<br>
-      💻 <b>What I Build:</b> Full-stack apps, AI pipelines, computer vision systems, and autonomous robotics. I focus on end-to-end ownership and shipping production-grade software that solves real problems.<br>
+      I'm a Computer Science and Mathematics student at the University of Manchester, Hackathon Director at UniCS, Notion Campus Leader, and a Zed Campus Ambassador (first cohort ever). If there's a hackathon, I'm either winning it or running it.<br>
+      🏆 <b>6x Hackathon Winner:</b> Including GreatUniHack, which I'm now running myself, and robotics competitions such as Hack-A-Bot. I've also been selected to compete at some of the world's largest hackathons, including HackEurope and HackUPC. I build things that work and ship, under pressure and against the clock.<br>
+      🎯 <b>Hackathon Director:</b> I organise GreatUniHack at UniCS Manchester, one of the largest student hackathons in the UK with 500+ participants. There's nothing like watching a room full of developers turn ideas into working software overnight.<br>
+      🤝 <b>Campus Programs:</b> Selected for the Notion Campus Leader program from 1,000s of applicants worldwide, and for the first cohort ever of Zed's Campus Ambassador programme. I represent both on campus as their official student lead, bridging these companies and the student community through outreach, hackathons, workshops, and hands-on support.<br>
       ⚡ <b>Fun Fact:</b> I designed an autonomous robot that solves a Rubik's Cube in under 60 seconds! 🧩
     </p>
   </div>
