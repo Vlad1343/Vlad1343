@@ -33,8 +33,8 @@
   <h3>🚀 About Me</h3>
   <div align="left">
     <p>
-      I'm a Computer Science and Mathematics student at the University of Manchester, Hackathon Director at UniCS, Notion Campus Leader, and a Zed Campus Ambassador (first cohort ever). If there's a hackathon, I'm either winning it or running it.<br>
-      🏆 <b>6x Hackathon Winner:</b> Including GreatUniHack, which I'm now running myself, and robotics competitions such as Hack-A-Bot. I've also been selected to compete at some of the world's largest hackathons, including HackEurope and HackUPC. I build things that work and ship, under pressure and against the clock.<br>
+      I'm a Computer Science and Mathematics student at the University of Manchester, Hackathon Director at UniCS, Notion Campus Leader, and a Zed Campus Ambassador (first cohort ever). If there's a hackathon, I'm either winning it or running it!<br>
+      🏆 <b>7x Hackathon Winner:</b> Including GreatUniHack, which I'm now running myself, and Optiver's AI Chessathon, where I wrote a chess engine from scratch and, competing solo against 500+ teams worldwide, took one of 50 seats in the London final and finished top 16 (top 3.2%). I've also been selected to compete at some of the world's largest hackathons, including HackEurope (1000+ hackers) and HackUPC (700+). I build things that work and ship, under pressure and against the clock.<br>
       🎯 <b>Hackathon Director:</b> I organise GreatUniHack at UniCS Manchester, one of the largest student hackathons in the UK with 500+ participants. There's nothing like watching a room full of developers turn ideas into working software overnight.<br>
       🤝 <b>Campus Programs:</b> Selected for the Notion Campus Leader program from 1,000s of applicants worldwide, and for the first cohort ever of Zed's Campus Ambassador programme. I represent both on campus as their official student lead, bridging these companies and the student community through outreach, hackathons, workshops, and hands-on support.<br>
       ⚡ <b>Fun Fact:</b> I designed an autonomous robot that solves a Rubik's Cube in under 60 seconds! 🧩
