@@ -6,9 +6,9 @@
 <!-- INTRO: Typing Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Software+Engineer;6x+Hackathon+Winner;Hackathon+Director;Notion+Campus+Leader;Zed+Campus+Ambassador">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;6x+Hackathon+Winner;Hackathon+Director;Notion+Campus+Leader;Zed+Campus+Ambassador">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;6x+Hackathon+Winner;Hackathon+Director;Notion+Campus+Leader;Zed+Campus+Ambassador">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Software+Engineer;7x+Hackathon+Winner;Hackathon+Director+%28GreatUniHack%29;Notion+Campus+Leader">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;7x+Hackathon+Winner;Hackathon+Director+%28GreatUniHack%29;Notion+Campus+Leader">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;7x+Hackathon+Winner;Hackathon+Director+%28GreatUniHack%29;Notion+Campus+Leader">
   </picture>
 </div>
 
