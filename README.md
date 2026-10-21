@@ -36,11 +36,11 @@
       I'm a Computer Science and Mathematics student at the University of Manchester, Hackathons & Partnerships Director at UniCS, Notion Campus Leader and Zed Campus Ambassador. If there's a hackathon, I'm either winning it or running it.
     </p>
     <ul>
-      <li><b>Hackathons & Partnerships Director:</b> grew GreatUniHack to 500+ hackers in 2026, three times its previous size, with £70k+ in prizes and 25+ sponsors including Anthropic, NatWest, Tether, QRT and GitHub. Judges from Meta, Google and Arm.</li>
-      <li><b>7x Hackathon Winner</b> across 3 countries. At Optiver's AI Chessathon I built a chess engine from scratch and, competing solo, finished top 16 of 500+ teams.</li>
-      <li><b>Agentic AI School:</b> 1 of 45 selected from 650+ applicants, backed by former Google CEO Eric Schmidt. Our team won a $30,000 grant.</li>
-      <li><b>Olympiads:</b> 4 medals in Mathematics and Informatics at Ukraine's national and regional stages. Genius Olympiad international finalist in New York.</li>
-      <li><b>Campus Programs:</b> Notion Campus Leader (selected from 4,000+ applicants) and first-ever cohort of Zed Campus Ambassadors.</li>
+      <li><b>Hackathons & Partnerships Director:</b> grew GreatUniHack to 500+ hackers in 2026, three times its previous size, with £70k+ in prizes and 25+ sponsors including Anthropic, NatWest, Tether, QRT and GitHub, and judges from Meta, Google and Arm. I also bring companies like Bloomberg to campus, with their engineering talk drawing 100+ sign-ups.</li>
+      <li><b>7x Hackathon Winner</b> across 3 countries. At Optiver's AI Chessathon I built a chess engine from scratch and, competing solo, finished top 16 of 500+ teams worldwide, earning one of only 50 seats at the in-person London grand final.</li>
+      <li><b>Agentic AI School:</b> 1 of 45 selected from 650+ applicants, backed by former Google CEO Eric Schmidt, and got to speak with him one-on-one. Our team won a $30,000 grant and professional mentors to keep building after the programme.</li>
+      <li><b>Olympiads:</b> 4 medals in Mathematics and Informatics at Ukraine's national (2025) and regional (2024) stages, plus a Genius Olympiad international finalist in New York and a Junior Academy of Sciences national finalist in Ukraine.</li>
+      <li><b>Campus Programs:</b> Notion Campus Leader, selected from 4,000+ applicants worldwide, and part of the first-ever cohort of Zed Campus Ambassadors, running events, workshops and hands-on sessions for students across campus.</li>
       <li><b>Fun fact:</b> I built a robot that solves a Rubik's Cube in under 60 seconds, and I'm a 2x Karate World Champion.</li>
     </ul>
   </div>
