@@ -33,14 +33,16 @@
   <h3>🚀 About Me</h3>
   <div align="left">
     <p>
-      I'm a Computer Science and Mathematics student at the University of Manchester, Hackathons & Partnerships Director at UniCS, Notion Campus Leader, and a Zed Campus Ambassador (first cohort ever). If there's a hackathon, I'm either winning it or running it!<br>
-      🏆 <b>7x Hackathon Winner:</b> Across 3 countries, including GreatUniHack, which I'm now running myself, and Optiver's AI Chessathon, where I wrote a chess engine from scratch and, competing solo against 500+ teams worldwide, took one of 50 seats in the London final and finished top 16 (top 3.2%). I've also been selected to compete at some of the world's largest hackathons, including HackEurope (1000+ hackers) and HackUPC (700+). I build things that work and ship, under pressure and against the clock.<br>
-      🧠 <b>Agentic AI School:</b> 1 of 45 selected from 650+ applicants for the Agentic AI School, backed by former Google CEO Eric Schmidt, and got to speak with him one-on-one. Our team was awarded a $30,000 grant and professional mentors to keep building.<br>
-      🏅 <b>Olympiads:</b> 4 medals: 🥇 Mathematics and 🥈 Informatics at Ukraine's national final (2025), 🥉 Mathematics and 🥈 Informatics at the regional stage (2024). Also a Genius Olympiad international finalist in New York and a Junior Academy of Sciences national finalist.<br>
-      🎯 <b>Hackathons & Partnerships Director:</b> I grew GreatUniHack at UniCS Manchester to 500+ hackers in 2026, three times its previous size, with £70k+ in prizes, making it one of the UK's largest student hackathons. It's backed by 25+ sponsors and partners including Anthropic, NatWest, Tether, QRT and GitHub, and judges from Meta, Google and Arm. I also bring companies like Bloomberg to campus for tech talks.<br>
-      🤝 <b>Campus Programs:</b> Selected for the Notion Campus Leader program from 4,000+ applicants worldwide, and for the first cohort ever of Zed's Campus Ambassador programme. I represent both on campus as their official student lead, bridging these companies and the student community through outreach, hackathons, workshops, and hands-on support.<br>
-      ⚡ <b>Fun Fact:</b> I designed an autonomous robot that solves a Rubik's Cube in under 60 seconds! 🧩 Oh, and I'm a 2x Karate World Champion 🥋
+      I'm a Computer Science and Mathematics student at the University of Manchester, Hackathons & Partnerships Director at UniCS, Notion Campus Leader and Zed Campus Ambassador. If there's a hackathon, I'm either winning it or running it.
     </p>
+    <ul>
+      <li><b>Hackathons & Partnerships Director:</b> grew GreatUniHack to 500+ hackers in 2026, three times its previous size, with £70k+ in prizes and 25+ sponsors including Anthropic, NatWest, Tether, QRT and GitHub. Judges from Meta, Google and Arm.</li>
+      <li><b>7x Hackathon Winner</b> across 3 countries. At Optiver's AI Chessathon I built a chess engine from scratch and, competing solo, finished top 16 of 500+ teams.</li>
+      <li><b>Agentic AI School:</b> 1 of 45 selected from 650+ applicants, backed by former Google CEO Eric Schmidt. Our team won a $30,000 grant.</li>
+      <li><b>Olympiads:</b> 4 medals in Mathematics and Informatics at Ukraine's national and regional stages. Genius Olympiad international finalist in New York.</li>
+      <li><b>Campus Programs:</b> Notion Campus Leader (selected from 4,000+ applicants) and first-ever cohort of Zed Campus Ambassadors.</li>
+      <li><b>Fun fact:</b> I built a robot that solves a Rubik's Cube in under 60 seconds, and I'm a 2x Karate World Champion.</li>
+    </ul>
   </div>
 </div>
 
