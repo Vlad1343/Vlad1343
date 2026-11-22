@@ -6,9 +6,9 @@
 <!-- INTRO: Typing Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Software+Engineer;7x+Hackathon+Winner;Hackathon+Director+%28GreatUniHack%29;Notion+Campus+Leader">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;7x+Hackathon+Winner;Hackathon+Director+%28GreatUniHack%29;Notion+Campus+Leader">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=500&lines=Software+Engineer;7x+Hackathon+Winner;Hackathon+Director+%28GreatUniHack%29;Notion+Campus+Leader">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=650&lines=8x+Hackathon+Winner;1st+in+Ukraine+in+Mathematics;Cambridge+Battlecode+Finalist;Hackathon+Director+%28GreatUniHack%29;Software+Engineer">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=650&lines=8x+Hackathon+Winner;1st+in+Ukraine+in+Mathematics;Cambridge+Battlecode+Finalist;Hackathon+Director+%28GreatUniHack%29;Software+Engineer">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F3F3F&center=true&vCenter=true&width=650&lines=8x+Hackathon+Winner;1st+in+Ukraine+in+Mathematics;Cambridge+Battlecode+Finalist;Hackathon+Director+%28GreatUniHack%29;Software+Engineer">
   </picture>
 </div>
 
@@ -33,13 +33,13 @@
   <h3>🚀 About Me</h3>
   <div align="left">
     <p>
-      I'm a Computer Science and Mathematics student at the University of Manchester, Hackathons & Partnerships Director at UniCS, Notion Campus Leader and Zed Campus Ambassador. If there's a hackathon, I'm either winning it or running it.
+      I'm a Computer Science and Mathematics student at the University of Manchester and Hackathons & Partnerships Director at UniCS. If there's a hackathon, I'm either winning it or running it.
     </p>
     <ul>
+      <li><b>8x Hackathon Winner</b> across 3 countries. Most recently, my team finished 4th in the UK and top 12 of 1,300+ teams worldwide at Cambridge Battlecode 2026, sponsored by Jane Street, HRT, Citadel and many more. Before that, I finished top 16 of 500+ teams at Optiver's AI Chessathon, competing solo with a chess engine I built from scratch.</li>
+      <li><b>Olympiads:</b> 1st in Ukraine in Mathematics and 2nd in Informatics at the national final (2025), after 3rd in Mathematics and 2nd in Informatics at the regional stage (2024), plus a Genius Olympiad international finalist in New York and a Junior Academy of Sciences national finalist in Ukraine.</li>
       <li><b>Hackathons & Partnerships Director:</b> grew GreatUniHack to 500+ hackers in 2026, three times its previous size, with £70k+ in prizes and 25+ sponsors including Anthropic, NatWest, Tether, QRT and GitHub, and judges from Meta, Google and Arm. I also bring companies like Bloomberg to campus, with their engineering talk drawing 100+ sign-ups.</li>
-      <li><b>7x Hackathon Winner</b> across 3 countries. At Optiver's AI Chessathon I built a chess engine from scratch and, competing solo, finished top 16 of 500+ teams worldwide, earning one of only 50 seats at the in-person London grand final.</li>
       <li><b>Agentic AI School:</b> 1 of 45 selected from 650+ applicants, backed by former Google CEO Eric Schmidt, and got to speak with him one-on-one. Our team won a $30,000 grant and professional mentors to keep building after the programme.</li>
-      <li><b>Olympiads:</b> 4 medals in Mathematics and Informatics at Ukraine's national (2025) and regional (2024) stages, plus a Genius Olympiad international finalist in New York and a Junior Academy of Sciences national finalist in Ukraine.</li>
       <li><b>Campus Programs:</b> Notion Campus Leader, selected from 4,000+ applicants worldwide, and part of the first-ever cohort of Zed Campus Ambassadors, running events, workshops and hands-on sessions for students across campus.</li>
       <li><b>Fun fact:</b> I built a robot that solves a Rubik's Cube in under 60 seconds, and I'm a 2x Karate World Champion.</li>
     </ul>
