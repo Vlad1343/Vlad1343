@@ -159,7 +159,7 @@
 <h3 align="center">🏆 Hackathon Achievements</h3>
 <div align="center">
   <a href="https://github.com/Vlad1343/Cambridge-Battlecode-2026">
-    <img src="https://img.shields.io/badge/⚔️_Top_12_Worldwide-Cambridge_Battlecode_2026_--_4th_in_the_UK-FFD700?style=for-the-badge&labelColor=000000&logo=github" height="34"/>
+    <img src="https://img.shields.io/badge/⚔️_Top_12_of_1%2C300%2B_Teams-Cambridge_Battlecode_2026_--_4th_in_the_UK-FFD700?style=for-the-badge&labelColor=000000&logo=github" height="34"/>
   </a>
   <br><br>
   <a href="https://github.com/Vlad1343/Chess">
